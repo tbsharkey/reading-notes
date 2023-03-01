@@ -1,2 +1,4 @@
-# reading-notes
-Reading notes for Code Fellows 201 class.
+# Reading Notes
+Reading notes for my journey through Code Fellows Software Development course.
+
+## Code 201 - Foundations of Software Development
