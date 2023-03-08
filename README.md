@@ -6,28 +6,28 @@ Reading notes for my journey through Code Fellows Software Development course.
 #### Week 1
 - [Setup Developer Toolbelt](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-01.md)
 - [Introduction To Web Development](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-02.md)
-- [Lists, The Box Model, and Loops](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class3-notes.md)
-- [Links, Layouts, and Functions](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class4-notes.md)
-- [Images, Color, Text, and More Work With Functions](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class5-notes.md)
+- [Lists, The Box Model, and Loops](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-03.md)
+- [Links, Layouts, and Functions](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-04.md)
+- [Images, Color, Text, and More Work With Functions](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-05.md)
 
 #### Week 2
-- [Domain Modeling, Intro to the DOM, and Object Literal Notation](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class6-notes.md)
-- [HTML Tables and JS Constructor Functions](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class7-notes.md)
-- [Layout with CSS](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class8-notes.md)
-- [Forms and Events](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class9-notes.md)
-- [Debugging and Error Handling](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class10-notes.md)
+- [Domain Modeling, Intro to the DOM, and Object Literal Notation](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-06.md)
+- [HTML Tables and JS Constructor Functions](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-07.md)
+- [Layout with CSS](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-08.md)
+- [Forms and Events](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-09.md)
+- [Debugging and Error Handling](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-10.md)
 
 #### Week 3
-- [Audio and Video in HTML; Domain Modeling Revisited](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class11-notes.md)
-- [Canvas and ChartJS](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class12-notes.md)
-- [Introduction to Persistence with Local Storage](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class13-notes.md)
-- [Documentation, Project Selection, & Team Workflow](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class14-notes.md)
-- [Course Recap & 301 Preview](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class15-notes.md)
+- [Audio and Video in HTML; Domain Modeling Revisited](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-11.md)
+- [Canvas and ChartJS](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-12.md)
+- [Introduction to Persistence with Local Storage](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-13.md)
+- [Documentation, Project Selection, & Team Workflow](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-14.md)
+- [Course Recap & 301 Preview](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-15.md)
 
 #### Week 4
-- [Planning and Prep](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class16-notes.md)
-- [Development Sprint](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class17-notes.md)
-- [Working MVP](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class18-notes.md)
-- [Polish](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class19-notes.md)
-- [Presentations](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class20-notes.md)
+- [Planning and Prep](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-16.md)
+- [Development Sprint](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-17.md)
+- [Working MVP](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-18.md)
+- [Polish](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-19.md)
+- [Presentations](https://github.com/tbsharkey/reading-notes/blob/master/201-notes/class-20.md)
 
