@@ -1,0 +1,33 @@
+# Class 09
+
+## HTML Forms
+
+### Why are forms so important in web development?
+Forms are commonly used for collecting data from users or allowing them to control a user interface. Forms can also be used to initiate transactions.
+
+### When designing a form, what are some key things to keep in mind when it comes to user experience?
+Form size must be taken into consideration as a larger form will frustrate users. The form should have a logical and intuitive flow with questions in a logical sequence. Real time feedback should be provided such as displaying error messages for incorrect input. 
+
+### List 5 form elements and explain their importance.
+Text input fields: Text input allows users to enter text into a form.
+Radio Buttons: Radio buttons are used when the user can select only one of several predefined answers from a list.
+Checkboxes: Allows users to select several answers from a list.
+Drop-Down Menus: Allows users to select an option from a predefined list. They allow space to be saved.
+Submit Button: The submit button allows the user to submit the form to the server for processing. It must be visible and clearly labeled. 
+
+## Learn JS
+
+### How would you describe events to a non-technical friend?
+
+### When using the addEventListener() method, what 2 arguments will you need to provide?
+DOM events are used to describe anything on a web page that can be detected and responded to by code. Imagine a web page as a house, anything that happens in the house can be detected and responded to accordingly. Similarly, clicking on a button on the web page can be triggered to a specific action like displaying a message.
+
+### Describe the event object. Why is the target within the event object useful?
+The event is an object that is created when an event is triggered on a page. IT contains information about the event such as the type of the target element. Developers can access the information from the event and react accordingly. 
+
+### What is the difference between event bubbling and event capturing?
+Event bubbling and event capturing are different methods of handling events in the DOM. Event capturing happens when the event is captured by the outermost element and propagates to the innermost. Event bubbling occurs when the event is captured by the innermost element and propagated to the outermost element. 
+
+## Things I want to know more about
+I'm curious to learn how to couple DOM listeners and appending elements. 
+
